@@ -1,0 +1,323 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+body {
+    background-image: url("imagem.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#b1{
+    position:absolute;
+    z-index:1;
+    top:55%;                  
+    left:60%;
+    width:45px;               
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-72px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b2{
+    position:absolute;
+    z-index:1;
+    top:20%;
+    left:60%;                  
+    width:45px;               
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b3{
+    position:absolute;
+    z-index:1;
+    top:18%;
+    left:30%;                  
+    width:45px;               
+    height:35px;               /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b4{
+    position:absolute;
+    z-index:1;
+    top:66%;
+    left:35%;
+    width:45px;            
+    height:30px;              
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+    
+}
+#b5{
+    position:absolute;
+    z-index:1;
+    top:50%;
+    left:10%;
+    width:45px;               
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+    
+}
+#b6{
+    position:absolute;
+    z-index:1;
+    top:67%;
+    left:55%;
+    width:45px;               /* largura para o botão */
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b7{
+    position:absolute;
+    z-index:1;
+    top:102%;
+    left:32%;
+    width:45px;               
+    height:35px;            /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b8{
+    position:absolute;
+    z-index:1;
+    top:65%;
+    left:82%;
+    width:45px;               
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-32px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b9{
+    position:absolute;
+    z-index:1;
+    top:40%;
+    left:68%;
+    width:45px;               
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b10{
+    position:absolute;
+    z-index:1;
+    top:100%;
+    left:70%;
+    width:45px;               
+    height:35px;               /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b11{
+    position:absolute;
+    z-index:1;
+    top:93%;
+    left:66%;
+    width:45px;               
+    height:35px;             /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+
+}
+#b12{
+    position:absolute;
+    z-index:1;
+    top:62%;
+    left:74%;
+    width:45px;               
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+    
+}
+#b13{
+    position:absolute;
+    z-index:1;
+    top:78%;
+    left:65%;
+    width:45px;               
+    height:35px;               /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+    
+}
+#b14{
+    position:absolute;
+    z-index:1;
+    top:72%;
+    left:67%;
+    width:45px;               
+    height:35px;               /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+    
+}
+#b15{
+    position:absolute;
+    z-index:1;
+    top:87%;
+    left:76%;
+    width:45px;               
+    height:35px;               /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b16{
+    position:absolute;
+    z-index:1;
+    top:91%;
+    left:61%;
+    width:45px;               
+    height:35px;             /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b17{
+    position:absolute;
+    z-index:1;
+    top:88%;
+    left:58%;
+    width:45px;               
+    height:35px;             /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+
+}
+#b18{
+    position:absolute;
+    z-index:1;
+    top:36%;
+    left:38%;
+    width:45px;               
+    height:35px;             /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+    
+}
+#b19{
+    position:absolute;
+    z-index:1;
+    top:97%;
+    left:82%;
+    width:45px;               
+    height:35px;               /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+
+}
+#b20{
+    position:absolute;
+    z-index:1;
+    top:65;
+    left:75%;
+    width:45px;               
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+
+}
+#b21{
+    position:absolute;
+    z-index:1;
+    top:107%;
+    left:61%;
+    width:45px;               
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+    
+}
+#b22{
+    position:absolute;
+    z-index:1;
+    top:113%;
+    left:77%;
+    width:45px;               
+    height:35px;             /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b23{
+    position:absolute;
+    z-index:1;
+    top:115%;
+    left:64%;
+    width:45px;               
+    height:35px;               /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b24{
+    position:absolute;
+    z-index:1;
+    top:79%;
+    left:89%;
+    width:45px;               
+    height:35px;             /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b25{
+    position:absolute;
+    z-index:1;
+    top:79%;
+    left:77%;
+    width:45px;               
+    height:35px;              /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
+#b26{
+    position:absolute;
+    z-index:1;
+    top:67%;
+    left:77%;
+   width:45px;               
+    height:35px;             /* altura para o botão */
+    padding:0;
+    margin:-52px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+   
+}
